@@ -9,7 +9,7 @@ package trabajogithub;
  *
  * @author Corsair
  */
-public class TrabajoGitHub {
+public class Operacion {
 
     /**
      * @param args the command line arguments
