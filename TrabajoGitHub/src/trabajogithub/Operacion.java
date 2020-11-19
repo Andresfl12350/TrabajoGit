@@ -17,6 +17,10 @@ public class Operacion {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+    public int Resta(int a, int b){
+        
+        return a-b;
+    }
     
     public int Suma(int a, int b){
         return a+b;
