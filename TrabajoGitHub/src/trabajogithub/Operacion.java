@@ -18,4 +18,8 @@ public class Operacion {
         // TODO code application logic here
     }
     
+    public int Suma(int a, int b){
+        return a+b;
+    }
+    
 }
